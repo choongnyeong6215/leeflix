@@ -6,7 +6,6 @@ export const NavBar = styled(motion.nav)`
   color: white;
   position: fixed;
   top: 0;
-  left: 0;
   display: flex;
   justify-content: space-between;
   padding: 1.25rem 0;

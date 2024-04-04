@@ -11,7 +11,6 @@ import {
 } from "../styles/headerStyle";
 import {
   motion,
-  useAnimate,
   useAnimation,
   useMotionValueEvent,
   useScroll,
