@@ -25,3 +25,8 @@ export interface IMovieInfo {
   vote_average: number;
   vote_count: number;
 }
+
+// 현재 상영중인 영화 슬라이더
+export interface INowPlayingMovieProps {
+  nowPlayingMovies: IMovieInfo[];
+}
